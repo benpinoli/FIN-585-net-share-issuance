@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+statsmodels
+great_tables[extra]
+altair

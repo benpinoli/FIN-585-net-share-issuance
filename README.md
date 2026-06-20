@@ -6,7 +6,7 @@ The full analysis was completed on Google Colab. This repo contains the cleaned 
 
 ## Presentation
 
-**[View project presentation]([https://docs.google.com/presentation/d/YOUR_PRESENTATION_ID/edit?usp=sharing](https://docs.google.com/presentation/d/1RwUPysZtQUqKRcb4VmFTo7juwcPH9zATGS_WRcQKJys/edit?slide=id.g3d5fb476999_4_358#slide=id.g3d5fb476999_4_358))** — results, tables, and visualizations from the completed analysis.
+**[View project presentation]((https://docs.google.com/presentation/d/1RwUPysZtQUqKRcb4VmFTo7juwcPH9zATGS_WRcQKJys/edit?slide=id.g3d5fb476999_4_358#slide=id.g3d5fb476999_4_358))** — results, tables, and visualizations from the completed analysis.
 
 > Replace the link above with your Google Slides or PDF URL.
 

@@ -6,7 +6,9 @@ The full analysis was completed on Google Colab. This repo contains the cleaned 
 
 ## Presentation
 
-**https://docs.google.com/presentation/d/1RwUPysZtQUqKRcb4VmFTo7juwcPH9zATGS_WRcQKJys/edit?slide=id.g3d5fb476999_4_358#slide=id.g3d5fb476999_4_358** — results, tables, and visualizations from the completed analysis.
+**https://docs.google.com/presentation/d/1RwUPysZtQUqKRcb4VmFTo7juwcPH9zATGS_WRcQKJys/edit?slide=id.g3d5fb476999_4_358#slide=id.g3d5fb476999_4_358** 
+
+— results, tables, and visualizations from the completed analysis.
 
 
 ## Overview
